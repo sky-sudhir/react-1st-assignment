@@ -83,8 +83,8 @@ h1 {
   color: gray;
 }
 
-#info-content {
-  display: none;
+.info-content {
+
   margin-top: 10px;
 }
 
